@@ -1,0 +1,9 @@
+# O apex (jogospedagogicosmusicais.com.br) aponta para este projeto Pages,
+# mas o site principal e o GreatPages, que vive no www.
+# Aqui so mora a landing /oferta; todo o resto volta para o www.
+#
+# Arquivos estaticos tem prioridade sobre estas regras, entao /oferta/ e
+# todas as midias dentro dela sao servidas normalmente pelo Pages.
+
+/oferta  /oferta/  308
+/*  https://www.jogospedagogicosmusicais.com.br/:splat  302
