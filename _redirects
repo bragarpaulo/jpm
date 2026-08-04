@@ -1,7 +1,0 @@
-# O apex (jogospedagogicosmusicais.com.br) aponta para este projeto Pages.
-# Aqui so mora a landing /oferta.
-#
-# NAO usar regra catch-all /* aqui: ela tem prioridade sobre os arquivos
-# estaticos e derruba os assets de /oferta/ (script.js, imagens, videos).
-
-/oferta  /oferta/  308
